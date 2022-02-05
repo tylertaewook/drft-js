@@ -5,3 +5,32 @@
 body {
   margin: 0;
 }
+
+header {
+  background-color: #f55a5a;
+  padding: 9px;
+  text-align: center;
+  color: white;
+}
+
+.card {
+  width: 90vw;
+  font-size: 12px;
+  flex-direction: row;
+  position: relative;
+  padding: 30px 30px;
+}
+.info {
+  flex-direction: column;
+}
+
+.card--image {
+  width: 30%;
+  border-radius: 9px;
+  margin-bottom: 9px;
+}
+
+.card--geo {
+  font-size: 20px;
+  align-items: center;
+}
