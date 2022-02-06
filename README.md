@@ -1,2 +1,2 @@
-# drft-js
-exploratory repo for implementing drft in ReactJS before migrating to typescript
+# reactJS-playground
+exploratory repo for practicing ReactJS before migrating to typescript
